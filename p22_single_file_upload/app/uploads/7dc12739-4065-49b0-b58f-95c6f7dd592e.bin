@@ -1,0 +1,8 @@
+mkdir p22_single_file_upload && \
+cd p22_single_file_upload && \
+python3.14 -m venv venv && \
+source venv/bin/activate && \
+pip install "fastapi[standard]" && \
+mkdir app && \
+cd app && \
+touch main.py
