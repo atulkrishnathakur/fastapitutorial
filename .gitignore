@@ -24,3 +24,5 @@ p22_single_file_upload/venv
 p23_multiple_file_upload/venv
 p24_form_file_and_file_upload/venv
 p25_exception/venv
+p26_sqlalchemy/venv
+p27_async_sqlalchemy/venv
