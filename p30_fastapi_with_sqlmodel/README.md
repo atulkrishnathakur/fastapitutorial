@@ -1,0 +1,1 @@
+# In this project SQLModel used with FastAPI project
