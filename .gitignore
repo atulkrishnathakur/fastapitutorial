@@ -30,3 +30,9 @@ p28_sqlmodel/venv
 p29_sqlmodel_relationship/venv
 p30_fastapi_with_sqlmodel/venv
 p31_swagger_and_sqlmodel/venv
+p32_middleware/venv
+p33_middleware_order/venv
+p34_middleware_in_file/venv
+p35_middleware_path_specific/venv
+p36_middleware_built_in/venv
+p37_APIRouter/venv

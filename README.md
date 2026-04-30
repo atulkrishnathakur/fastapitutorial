@@ -1,4 +1,7 @@
 
+# About this project
+1. Every "p*" is a project for a fastapi topic, chapter or concept
+
 # configure vs code editor for python/fastapi development
 1. install vs code and install `python` extension of vs code
 
