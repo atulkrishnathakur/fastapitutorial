@@ -51,7 +51,6 @@ p47_websocket/venv
 p48_websocket_with_dependancy/venv
 p49_authentication_authorization/venv
 p50_authentication_authorization_sqlalchemy/venv
-
 p51_mysql_async_sqlalchemy/venv
 p52_postgresql_async_sqlalchemy/venv
 p53_mongodb/venv
