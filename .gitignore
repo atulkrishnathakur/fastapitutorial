@@ -57,3 +57,9 @@ p53_mongodb/venv
 p54_pytest/venv
 p55_pytest_fixture/venv
 p56_async_pytest/venv
+p57_async_pytest_fixture/venv
+p57_pytest_code_coverage/venv
+p58_pytest_configuration/venv
+p58_pytest_unit_testing/venv
+p59_integration_testing/venv
+p60_pytest_report/venv
